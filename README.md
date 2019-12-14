@@ -1,3 +1,3 @@
-## license-templates
+# license-templates
 
-this repository provides my license-templates.
+this repository provides my license-templates
